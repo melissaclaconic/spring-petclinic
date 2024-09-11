@@ -4,7 +4,6 @@ metadata:
   name: spring-petclinic
   annotations:
     github.com/project-slug: melissaclaconic/spring-petclinic
-    backstage.io/techdocs-ref: github:https://github.com/melissaclaconic/spring-petclinic
 spec:
   type: other
   lifecycle: unknown
